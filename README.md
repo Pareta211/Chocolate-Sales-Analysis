@@ -20,7 +20,9 @@ The dataset contains sales transactions with fields such as Sales Person, Countr
 All SQL queries are provided in the `sql_queries.sql` file.
 
 ## 📂 Files
-- `cleaned_chocolate_sales_detail.csv`: Cleaned dataset ready for import.
+- `chocolate_sales_detail.csv`: Cleaned dataset ready for import.
 - `sql_queries.sql`: SQL scripts used for analysis.
+
+# Source- Kaggle - https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales
 
 From Avinash Pareta
